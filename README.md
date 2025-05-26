@@ -14,4 +14,8 @@ Download and install [AutoHotKey](https://www.autohotkey.com/)
 
 Download & Run the script from the [latest release](https://github.com/schatzsuche/windowsTerminalHotKey/releases)
 
+### Step 3
+
+Press Crtl + Alt + T on your Keyboard
+
 ---
