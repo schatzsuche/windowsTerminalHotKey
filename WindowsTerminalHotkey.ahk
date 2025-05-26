@@ -1,3 +1,3 @@
 ^!t:: {
-    Run 'cmd.exe /k cd /d "C:\Users\Etwas"'
+    Run 'cmd.exe /k cd /d %USERPROFILE%'
 }
