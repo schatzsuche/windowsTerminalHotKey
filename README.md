@@ -18,4 +18,8 @@ Download & Run the script from the [latest release](https://github.com/schatzsuc
 
 Press Crtl + Alt + T on your Keyboard
 
+## Step 4 (optinal)
+you can put the downloaded file in `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\`
+to make it auto start
+
 ---
